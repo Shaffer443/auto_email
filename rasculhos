@@ -1,0 +1,13 @@
+Versão 99.0.4844.51 (Versão oficial) 64 bits
+
+posição do Menu - Point(x=27, y=880)
+
+local do click do menu no navegador google para a caonta gmail certa - Point(x=707, y=538)
+
+webmail google alvo - https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+
+google login - //*[@id="identifierId"]
+
+proximo google - //*[@id="identifierNext"]/div/button/div[3]
+
+botão escrever - //*[@id=":kr"]/div/div | Point(x=85, y=180)
